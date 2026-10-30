@@ -9,13 +9,13 @@ The project emphasizes clean architecture, practical state handling, background 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="22%" alt="Home Screen" />
+  <img src="lib/screenshots/home.jpg" width="22%" alt="Home Screen" />
   &nbsp;
-  <img src="screenshots/search.jpg" width="22%" alt="Search Screen" />
+  <img src="lib/screenshots/search.jpg" width="22%" alt="Search Screen" />
   &nbsp;
-  <img src="screenshots/settings.jpg" width="22%" alt="Settings Screen" />
+  <img src="lib/screenshots/settings.jpg" width="22%" alt="Settings Screen" />
   &nbsp;
-  <img src="screenshots/widgets.jpg" width="22%" alt="Widgets Screen" />
+  <img src="lib/screenshots/widgets.jpg" width="22%" alt="Widgets Screen" />
 </p>
 
 ---
