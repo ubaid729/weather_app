@@ -15,7 +15,7 @@ The project emphasizes clean architecture, practical state handling, background 
   &nbsp;
   <img src="lib/screenshots/settings.jpg" width="22%" alt="Settings Screen" />
   &nbsp;
-  <img src="lib/screenshots/widgets.jpg" width="22%" alt="Widgets Screen" />
+  <img src="lib/screenshots/widget.jpg" width="22%" alt="Widgets Screen" />
 </p>
 
 ---
